@@ -253,7 +253,7 @@ footer{
     display: none;
 }
 
-.banner>img{
-    height: 40%;
+.banner{
+   padding-top: 60px;
  
 }
