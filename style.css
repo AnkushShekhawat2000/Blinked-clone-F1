@@ -257,3 +257,7 @@ footer{
    padding-top: 60px;
  
 }
+
+.item-price{
+  align-items: center;
+}
